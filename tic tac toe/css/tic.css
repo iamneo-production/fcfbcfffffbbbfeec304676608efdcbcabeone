@@ -68,5 +68,13 @@ ui.{
     border-left: 1px solid grey;
 }
 #but{
-    
+    box-sizing: border-box;
+    width: 75px;
+    height: 75px;
+    border:1px solid white;
+    margin-left:auto;
+    border-radius: 8px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color:grey;
+    color: white;
 }
