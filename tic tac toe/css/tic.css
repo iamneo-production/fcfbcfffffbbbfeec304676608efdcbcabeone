@@ -25,3 +25,24 @@ ui.{
     text-align: center;
     cursor: pointer;
 }
+.cell:active{
+    outline: none;
+}
+#b1{
+    border-bottom: px solid grey;
+    border-right: px solid grey;  
+}
+#b2{
+    border-bottom: 1px solid grey;
+    border-right: 1px solid grey;
+    border-left: 1px solid grey;
+}
+#b3 {
+    border-bottom: 1px solid grey;
+    border-left: 1px solid grey;
+}
+#b4{
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    border right: 1px solid grey;
+}
